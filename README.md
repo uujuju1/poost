@@ -11,11 +11,11 @@ Soundtrack for mindustry mod [Project Oblivion](https://github.com/uujuju1/proje
 - game5 "Pendaratan Pertama", made by [@12three7](github.com/12three7).
 - game6 -, -.
 - game7 -, -.
-- game8 "Strategic Error", made by [@uujuju1](github.com/uujuju1)
-- game9 "Dark Caves", made by [@uujuju1](github.com/uujuju1)
+- game8 "Strategic Error", made by [@uujuju1](github.com/uujuju1).
+- game9 "Dark Caves", made by [@uujuju1](github.com/uujuju1).
 
 ## Credits
 
-thanks to [@12three7](github.com/12three7) for tha kool soundtracks
+thanks to [@12three7](github.com/12three7) and [@King-Silicon](https://github.com/King-Silicon) for tha kool soundtracks
 
 
