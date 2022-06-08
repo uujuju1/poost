@@ -1,0 +1,5 @@
+if you don't know what music to override, 
+then remember these:
+ambient: game1,3,6,8,9 // plays at any time
+dark: game2,4,5,7 // plays when there's a conflict
+boss: game2,5,boss1,2 // plays when a boss spawns
